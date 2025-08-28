@@ -1,0 +1,6 @@
+
+{
+  "name": "RecipeShare - Collaborative Recipe Book",
+  "description": "A web application that allows users to share their favorite recipes, including ingredients, instructions, and a photo of the dish. Other users can view, rate, and comment on these recipes.",
+  "requestFramePermissions": []
+}
